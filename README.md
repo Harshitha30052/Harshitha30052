@@ -62,19 +62,19 @@ Building full-stack applications, exploring backend systems, and applying machin
 
 AI-enabled maintenance management system using MobileNetV2, React, Node.js, and MongoDB.
 
-Repository → YOUR_REPO_LINK
+Repository → https://github.com/Harshitha30052/SMARTFIX
 
 ### Real-Time Chat Application
 
 Real-time communication platform using Socket.io, JWT authentication, and MySQL.
 
-Repository → YOUR_REPO_LINK
+Repository → https://github.com/Harshitha30052/real-time-chat-app
 
 ### Hotel Management System
 
 Web-based booking and management system developed using PHP and MySQL.
 
-Repository → YOUR_REPO_LINK
+Repository → https://github.com/Harshitha30052/Hotel-Management-System
 
 ---
 
