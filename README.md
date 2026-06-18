@@ -1,6 +1,7 @@
 # Hi, I'm Harshitha Reddy 👋
 
 Final Year B.Tech Student in Computer Science and Engineering
+
 Building full-stack applications, exploring backend systems, and applying machine learning to real-world projects.
 
 ---
@@ -60,16 +61,19 @@ Building full-stack applications, exploring backend systems, and applying machin
 ### SmartFix
 
 AI-enabled maintenance management system using MobileNetV2, React, Node.js, and MongoDB.
+
 Repository → https://github.com/Harshitha30052/SMARTFIX
 
 ### Real-Time Chat Application
 
 Real-time communication platform using Socket.io, JWT authentication, and MySQL.
+
 Repository → https://github.com/Harshitha30052/real-time-chat-app
 
 ### Hotel Management System
 
 Web-based booking and management system developed using PHP and MySQL.
+
 Repository → https://github.com/Harshitha30052/Hotel-Management-System
 
 ---
@@ -83,6 +87,7 @@ Data Structures and Algorithms • OOP • DBMS • Operating Systems • Comput
 ## Connect With Me 🌐
 
 LinkedIn → https://www.linkedin.com/in/harshitha-reddy-kambalapally-67565433b
+
 Email → kharshithareddy2006@gmail.com
 
 ---
